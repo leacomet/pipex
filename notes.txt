@@ -1,0 +1,3 @@
+-oublié de fermer le pipe fd lorsque fork marche pas
+-double fermaison de pipe OMG
+-test 'OMG'
